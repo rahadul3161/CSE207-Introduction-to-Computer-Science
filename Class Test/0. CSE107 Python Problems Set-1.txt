@@ -1,0 +1,21 @@
+Q1. An algorithm that gets three data values x, y, and z as input and outputs the average of those three values.
+
+
+Q2. An algorithm to get both the circumference and the area of a circle.
+
+
+Q3. An algorithm that gets the amount of electricity used in kilowatt-hours and the cost of electricity per kilowatt-hour. Its output is the total amount of the electric bill, including an 8% sales tax.
+
+
+Q4. An algorithm that inputs your current credit card balance, the total dollar amount of new purchases, and the total dollar amount of all payments. The algorithm computes the new balance, which includes a 12% interest charge on any unpaid balance.
+
+
+Q5. Write an algorithm that gets as input three data values x, y, and z and outputs the average of these values if the value of x is positive. If the value of x is either 0 or negative, your algorithm should not compute the average but should print the error message ‘Bad Data’ instead.
+
+
+
+
+
+
+
+

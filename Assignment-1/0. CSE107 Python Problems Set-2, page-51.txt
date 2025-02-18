@@ -1,0 +1,16 @@
+Problem-1. An algorithm that gets three data values x, y, and z as input and outputs the average of those three values.
+
+
+Problem-2. An algorithm that gets the radius r of a circle as input. Its output is both the circumference and the area of a circle of radius r.
+
+
+Problem-3. An algorithm that gets the amount of electricity used in kilowatt-hours and the cost of electricity per kilowatt-hour. Its output is the total amount of the electric bill, including an 8% sales tax.'''
+
+
+Problem-4. An algorithm that inputs your current credit card balance, the total dollar amount of new purchases, and the total dollar amount of all payments. The algorithm computes the new balance, which includes a 12% interest charge on any unpaid balance.
+
+
+Problem-5. An algorithm that is given the length and width, in feet, of a rectangular carpet and determines its total cost given that the material cost is $23 per square yard.
+
+
+Problem-6. An algorithm that is given three numbers corresponding to the number of times a race car driver has finished first, second, and third. The algorithm computes and displays how many points that driver has earned given 5 points for a first, 3 points for a second, and 1 point for a third place finish.
